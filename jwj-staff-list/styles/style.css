@@ -1,0 +1,152 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.jwj_clear {
+	clear:both;	
+}
+@media only screen and (min-width:320px) {
+
+.jwj_staff_list {
+	width: 80%;
+	margin:0px auto;
+		
+}
+.staff_member {
+	width: 97%;
+	margin:1.5%;
+	float:left;
+}
+.staff_headshot {
+	with:100%;
+	
+}
+.staff_headshot img {
+	margin:0px auto;
+	-webkit-border-radius: 200px;
+	border-radius: 200px;
+	width: 100%;
+		
+}
+.staff_name {
+	font-size:1.5em;
+	font-family:Lobster;
+	text-align:center;	
+	line-height: 1.2em;
+}
+.staff_title {
+	text-transform:uppercase;
+	font-size:.8em;
+	text-align:center;
+	border-bottom: 1px dotted #CACACA;
+	border-top: 1px dotted #CACACA;
+	
+}
+.staff_quote {
+	font-style:italic;
+	font-weight:lighter;
+	text-align:center;
+	color:#424242;	
+}
+
+
+	
+}
+
+@media only screen and (min-width:768px) {
+.jwj_staff_list {
+	width: 95%;
+	margin:0px auto;
+		
+}
+.staff_member {
+	width: 47%;
+	margin:1.5%;
+	float:left;
+}
+.staff_headshot {
+	with:100%;
+	
+}
+.staff_headshot img {
+	margin:0px auto;
+	-webkit-border-radius: 200px;
+	border-radius: 200px;
+	width: 100%;
+		
+}
+.staff_name {
+	font-size:1.5em;
+	font-family:Lobster;
+	text-align:center;	
+}
+.staff_quote {
+	font-style:italic;
+	font-weight:lighter;
+	text-align:center;
+	color:#424242;	
+}
+.jwj_clear_two {
+	clear:both;	
+}
+.jwj_clear_three {
+	display: none;	
+}
+
+
+
+}
+
+@media only screen and (min-width:1024px) {
+
+.jwj_staff_list {
+	width: 95%;
+	margin:0px auto;
+		
+}
+.staff_member {
+	width: 30%;
+	margin:1.5%;
+	float:left;
+}
+.staff_image img {
+	width:100%;
+	height:auto;
+	padding:10px 20px;
+	
+}
+.staff_headshot {
+	with:100%;
+	
+}
+.staff_headshot img {
+	margin:0px auto;
+	-webkit-border-radius: 200px;
+	border-radius: 200px;
+	width: 100%;
+		
+}
+.staff_name {
+	font-size: 1.5em;
+    font-family: Lobster;
+    text-align: center;
+    
+}
+.staff_quote {
+	font-style:italic;
+	font-weight:lighter;
+	text-align:center;
+	color:#424242;	
+}
+.staff_bio {
+	padding:10px 20px;
+}
+.jwj_clear_three {
+	clear:both;	
+}
+.jwj_clear_two {
+	display: none;	
+}
+
+}
+
